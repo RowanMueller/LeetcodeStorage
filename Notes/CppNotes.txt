@@ -1,0 +1,16 @@
+1.2 - For console inputs/outputs we use the IO library (part of C++ standard library).
+    - cin --> standard input
+    - cout --> standard output
+    - cerr --> standard error: gives information about warnings and error messages.
+    - clog --> provides general execution information.
+
+    * In C++, an expression yields a result and is composed of 1 or more operands.
+    * The << operator for example takes two commands: the left must be an O stream
+    * The right must be a value for printing.
+
+
+1.1 - Just like java, C++ programs run by calling main. Return type of int
+is standard and returning 0 typically represents success.
+    - For compiling, we must use $g++. Then we can specify the file location
+      to get an executable which can be ran by specifying the file location 
+      again.
