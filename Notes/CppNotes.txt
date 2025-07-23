@@ -8,6 +8,11 @@
     * The << operator for example takes two commands: the left must be an O stream
     * The right must be a value for printing.
 
+    * String Literal: Sequence of characters in double quotes
+    * Manipulator: special value like endl.
+
+    * Scope Operator --> "::" defines the namespace where we are getting the name.
+
 
 1.1 - Just like java, C++ programs run by calling main. Return type of int
 is standard and returning 0 typically represents success.

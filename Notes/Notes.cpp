@@ -3,6 +3,19 @@
 
 
 
+
+// #include <iostream>
+
+// int main()
+// {
+//     std::cout << "/*";
+//     std::cout << "*/";
+//     std::cout << /* "*/" */";
+//     std::cout << /* "*/" /* "/*" */;
+//     return 0;
+// }
+
+
 // tells compiler to include the contents of iostream header file
 // #include <iostream>
 
