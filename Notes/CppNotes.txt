@@ -1,10 +1,7 @@
 1.4 --> Flow of Control
     - incrememnt, decrement, assignment, etc. are all the same as java.
     - Most of the syntax is the same as java for for/while loops.
-
-
-
-
+    * Errors (Same as java) are Syntax, Type, and Declaration.
 
 
 
