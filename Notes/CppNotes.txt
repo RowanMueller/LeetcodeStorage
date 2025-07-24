@@ -1,3 +1,13 @@
+1.4 --> Flow of Control
+    - incrememnt, decrement, assignment, etc. are all the same as java.
+    - Most of the syntax is the same as java for for/while loops.
+
+
+
+
+
+
+
 1.2 - For console inputs/outputs we use the IO library (part of C++ standard library).
     - cin --> standard input
     - cout --> standard output
